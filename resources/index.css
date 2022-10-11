@@ -1,0 +1,6 @@
+.banner {
+    background-color: hsl(190, 32%, 52%);
+    color: hsl(180, 32%, 80%);
+    text-align: center;
+    padding: 15px;
+}
